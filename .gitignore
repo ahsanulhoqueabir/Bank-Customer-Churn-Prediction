@@ -1,0 +1,20 @@
+# datasets (do not commit)
+data/
+*.csv
+
+# notebook / python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# generated artifacts
+*.pkl
+*.joblib
+submission*.csv
